@@ -5,11 +5,11 @@
 #include "Audio.h"
 
 // Wi-Fi credentials
-const char* ssid = "Sk";
-const char* password = "12345678.";
+const char* ssid = "imatesseract";
+const char* password = "imatesseractwifi";
 
 // Gemini API key and parameters
-const char* Gemini_Token = "YOUR_API_KEY";
+const char* Gemini_Token = "AIzaSyBP_sMXTBwfvy0kItAS3M9oMC9u1kg5BmE";
 const char* Gemini_Max_Tokens = "100";
 
 // I2S pin configuration
